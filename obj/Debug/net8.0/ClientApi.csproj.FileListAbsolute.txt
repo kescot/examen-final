@@ -1,0 +1,7 @@
+C:\Users\kevin\Documents\examen desarrollo\ClientApi\obj\Debug\net8.0\ClientApi.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\examen desarrollo\ClientApi\obj\Debug\net8.0\ClientApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\examen desarrollo\ClientApi\obj\Debug\net8.0\ClientApi.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\examen desarrollo\ClientApi\obj\Debug\net8.0\ClientApi.AssemblyInfo.cs
+C:\Users\kevin\Documents\examen desarrollo\ClientApi\obj\Debug\net8.0\ClientApi.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\examen desarrollo\ClientApi\obj\Debug\net8.0\ClientApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kevin\Documents\examen desarrollo\ClientApi\obj\Debug\net8.0\ClientApi.MvcApplicationPartsAssemblyInfo.cache
